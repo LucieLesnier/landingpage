@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Landing RH</title>
-    <link href="landing.css" rel="stylesheet">
-</head>
-<body>
+//STYLE PRINCIPAL
+wp_enqueue_style('landing.css', $landing_directory . "css/landing.css");
+
 <div class="content">
 
     <!------------------------------------------------------ HEADER ---------------------------------------------->
