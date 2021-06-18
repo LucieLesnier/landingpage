@@ -1,0 +1,325 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Lato, serif;
+
+}
+.content {
+    display: block;
+    margin: auto 20%;
+
+}
+
+
+
+
+.header {
+    display: flex;
+    margin-left: 3%;
+    padding: 0;
+
+}
+
+.title {
+    margin-left: 5%;
+
+
+}
+
+.dell {
+    color: #6E79BB;
+    letter-spacing: 4px;
+
+}
+
+.view {
+    color: #9DB0AE;
+    letter-spacing: 4px;
+}
+
+.underTitle {
+    border-spacing: 10px;
+    border-top: 3px solid #07449D;
+
+    font-size: 18px;
+
+}
+
+.logo {
+
+    position: static;
+
+}
+
+h1 {
+    font-family: "Lato", serif;
+    font-size: 30px;
+
+    color: #07449D;
+    text-align: start;
+    margin-bottom: 25px;
+}
+h4 {
+    margin-bottom: 7%;
+}
+
+
+#banner {
+    display: flex;
+    color: black;
+}
+
+.aside {
+    display: inline-block;
+    line-height: 20px;
+    margin-left: 5%;
+    justify-content: space-between;
+}
+
+
+
+h4 {
+
+    font-size: 22px;
+}
+
+.link1, .link2, .link3 {
+    font-family: Lato Black, monospace ;
+    font-size: 13px;
+    margin-top: 3%;
+    margin-bottom: 18%;
+
+
+
+}
+
+.picture {
+    display: inline-block;
+
+}
+
+#cross {
+
+    display: flex;
+    flex-direction: row;
+    margin: 2% 2% 0 0 ;
+
+}
+.cross_container {
+    margin: 0% 2% 7%;
+    font-size: 20px;
+    align-content: center;
+
+}
+.title_cross {
+    margin-bottom: -5%;
+
+}
+h2 {
+    font-size: 18px;
+}
+h5 {
+    text-align: left;
+
+    font-size: 22px;
+    text-space: 2px;
+
+    margin-bottom: -2%;
+
+}
+span {
+;
+}
+.cross_option {
+
+
+    text-align: left;
+    width: 100%;
+
+}
+
+.paper {
+
+    background-color: #707070;
+    color: white;
+    text-align: center;
+    width: 20%;
+    font-size: 20px;
+}
+
+.line {
+    background-color: #6E79BB;
+    width: 20%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+.mail {
+
+    background-color: #cdcbcb;
+    color: black;
+    font-size: 20px;
+    text-align: left;
+
+
+}
+
+.offers {
+    width: 100%;
+    background-color: #F7F7F7;
+    margin-top: -5%;
+    text-align: center;
+
+
+
+}
+
+button, .button_offers {
+    border-radius: 57px;
+    background-color: #FF854D;
+    color: white;
+    border-color: white;
+    width: 272px;
+    height: 40px;
+
+    font-size: 14px;
+    margin-bottom: 10%;
+
+
+
+}
+.offers_text {
+    text-align: center;
+
+    letter-spacing: 4px;
+    font-size: 25px;
+    color: #6E79BB;
+
+}
+.offers_text_price {
+
+    font-size: 30px;
+}
+
+.button_offers {
+    text-align: center;
+    display: flex;
+    margin-left: 40%;
+    line-height: 5px;
+    margin-top: -20px;
+}
+.container {
+    display: flex;
+    margin-top: -10%;
+
+
+}
+.animation {
+    display: inline-block;
+    margin: 3%;
+    background-color: #F7F7F7;
+    width: 33%;
+
+
+}
+svg {
+
+}
+
+.titre_offers {
+
+    color: #6E79BB;
+    font-size: 22px;
+    text-align: center;
+    margin: 25px 60px 30px 60px;
+
+
+}
+.img {
+    text-align: center;
+    margin-top: 10%;
+    margin-bottom: 0;
+}
+.text {
+
+    font-size: 18px;
+    text-align: center;
+    margin: 0 5% 5% 5%;
+
+
+}
+.aside_footer {
+    margin-left: 3%;
+    justify-content: left;
+    width: 33%;
+    font-size: 16px;
+
+
+}
+.form_footer {
+    width: 66%;
+    background-color: darkgray;
+}
+.content_footer {
+    margin-top: 2%;
+    display: flex;
+    margin-bottom: 5%;
+}
+h6 {
+
+    text-space: 4px;
+    font-size: 18px;
+
+}
+.aside_option, b {
+    font-size: 18px;
+    margin: 0;
+
+
+}
+.aside_option {
+    font-size: 14px;
+    justify-content: left;
+    line-height: 15px;
+    width: 100%;
+
+}
+.aside_text p{
+    margin-top: 0;
+}
+.aside_text {
+    margin-bottom: 10%;
+    width: 50%;
+}
+.aside_offers p {
+
+    color: #6E79BB;
+    font-size: 22px;
+}
+h8 {
+
+
+    font-size: 22px;
+}
+.end_aside p {
+    margin-right: 30%;
+    margin-top: 10%;
+}
+.end_aside a {
+    color: #6E79BB;
+}
+.end_aside img {
+    margin-left: 70%;
+    margin-top: -15%;
+}
+
+
+
+
+
+
+
