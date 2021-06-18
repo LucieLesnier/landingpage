@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ca5b0d2f-3638-4cfd-9bf6-37fe3252a967" name="mercure">
+        <fileTransfer rootFolder="/home/www/campagnes/www_rec/wp-content/themes/mercure/themes" accessType="SFTP" host="54.38.43.243" port="2223" sshConfigId="68c51a89-4f4b-46ac-ba7d-9eae100be788" sshConfig="accesclient@54.38.43.243:2223 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

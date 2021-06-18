@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="54.38.43.243" id="68c51a89-4f4b-46ac-ba7d-9eae100be788" keyPath="C:\v5e\boutique-rec7-accesclient.ppk" port="2223" nameFormat="DESCRIPTIVE" username="accesclient" />
+    </configs>
+  </component>
+</project>
